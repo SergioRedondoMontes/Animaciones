@@ -5,32 +5,32 @@
         android:fromDegrees="0"
         android:toDegrees="-500"
         android:duration="1000"
-        android:filtAfter="true"
+        android:fillAfter="true"
         >
     </rotate>
 
     <rotate
-        android:startOffSet="1000"
+        android:startOffset="1000"
         android:duration="1000"
         android:fromDegrees="0"
         android:toDegrees="500"
-        android:filtAfter="true"
+        android:fillAfter="true"
         >
     </rotate>
     <rotate
-        android:startOffSet="2000"
+        android:startOffset="2000"
         android:duration="1000"
         android:fromDegrees="0"
         android:toDegrees="500"
-        android:filtAfter="true"
+        android:fillAfter="true"
         >
     </rotate>
     <rotate
-        android:startOffSet="3000"
+        android:startOffset="3000"
         android:duration="1000"
         android:fromDegrees="0"
         android:toDegrees="-500"
-        android:filtAfter="true"
+        android:fillAfter="true"
         >
     </rotate>
 
